@@ -14,7 +14,6 @@ A partir de estos datos, se buscó observar si existe una relación entre el com
 
 El flujo general del proyecto fue:
 
-```text
 1. Carga de datos mensuales de dengue
         ↓
 2. Limpieza y filtrado de casos relevantes
@@ -38,7 +37,7 @@ El flujo general del proyecto fue:
 
 ## Estructura del proyecto
 
-```text
+
 Proyecto_2/
 │
 ├── Codigos/
@@ -71,7 +70,7 @@ Proyecto_2/
 │   └── Preci_mm_2023.csv
 │
 └── diccionario_datos_dengue/
-```
+
 
 ## Descripción de los códigos
 
